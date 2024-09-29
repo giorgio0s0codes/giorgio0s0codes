@@ -1,0 +1,5 @@
+- Hi, I’m @giorgio0s0codes
+- I’m interested in web development, open-source projects, and creative coding solutions.
+- I’m currently learning React, Node.js, and cloud deployment techniques.
+- I’m looking to collaborate on full-stack projects, innovative apps, and contributing to open-source frameworks.
+- Fun fact: I love solving complex problems and occasionally build things just for fun (like automating random tasks!).
